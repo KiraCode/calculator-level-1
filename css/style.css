@@ -62,8 +62,8 @@ body {
   width: 90%;
   box-sizing: border-box;
   background-color: transparent;
-  /* border: none;
-    outline: none; */
+  border: none;
+    outline: none;
   text-align: right;
   font-weight: 600;
   color: #000;
@@ -78,8 +78,8 @@ body {
   width: 90%;
   box-sizing: border-box;
   background-color: transparent;
-  /* outline: none;
-    border: none; */
+  outline: none;
+    border: none;
   text-align: right;
   font-weight: 600;
   font-style: "Jost";
