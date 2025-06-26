@@ -28,7 +28,7 @@
             <!-- 1st row -->
             <div class="row">
               <button class="btn btn-primary">AC</button>
-              <button class="btn btn-primary">
+              <button class="btn btn-primary" onclick="backSpace()">
                 <img src="./assets/icons/delete.svg" alt="delete" />
               </button>
               <button class="btn btn-primary">%</button>
@@ -63,7 +63,7 @@
             <div class="row">
               <button class="btn btn-expanded">0</button>
               <button class="btn">.</button>
-              <button class="rqual-btn" id="eval">(=)</button>
+              <button class="equal-btn" id="eval" onclick="getResult()">(=)</button>
             </div>
           </div>
         </div>
@@ -72,5 +72,6 @@
       <!-- footer -->
       <p class="copyright-text">$copy; 2025 WSA. All Right Reserved</p>
     </div>
+    <script src="./javascript/script.js"></script>
   </body>
 </html>
