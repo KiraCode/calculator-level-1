@@ -37,7 +37,7 @@ body {
 
 .container {
   border-radius: 33px;
-  border: 10px solid #e2e2e2;
+  border: 10px solid #5e5e6e;
   padding: 40px;
   background-color: #ffffff;
 }
@@ -109,13 +109,13 @@ body {
 }
 
 .equal-btn {
-  background-color: #ffc138;
-  color: #8c5a00;
+  background-color: #7b2cbf;
+  color: #e0e0ff;
 }
 
 .btn-primary {
-  background-color: #fceedb;
-  color: #bd882a;
+  background-color: #a87edf;
+  color: #f0ebff;
 }
 
 .btn-expanded {
@@ -126,3 +126,10 @@ body {
 .copyright-text{
     font-family: "Poppins";
 }
+
+   .cropped-image {
+       width: 280px;
+       height: 150px;
+       object-fit: cover;
+       object-position: top left;
+   }
