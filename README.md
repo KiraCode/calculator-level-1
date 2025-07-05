@@ -29,12 +29,14 @@ It performs basic arithmetic operations for an enhanced user experience.
 
 ## 📁 Project Structure
 
+<pre>
 calculator/
 ├── css/
 │ └── style.css # Stylesheet for the calculator UI
 ├── javascript/
 │ └── script.js # JavaScript logic for the calculator
 └── index.html # Main HTML file
+</pre>
 
 
 ---
