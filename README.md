@@ -1,45 +1,39 @@
-# 📱 Calculator
+# 🔢 Calculator - Level 1
 
 
-A responsive and interactive **Calculator** web app built with **HTML**, **CSS**, and **Vanilla JavaScript**.  
-It performs basic arithmetic operations for an enhanced user experience.
+A basic, responsive calculator web app that allows users to perform simple arithmetic operations such as addition, subtraction, multiplication, and division. It features a clean interface with buttons for digits and operators, along with a display for showing inputs and results.
 
----
 
-## ✨ UI Features
+## 🌟 Features
 
-- Clean and modern UI
-- Responsive layout
-- Supports:
-  - Addition, Subtraction, Multiplication, Division
-  - Expression clearing
-  - Backspace and clear (`AC`)
-  - Keyboard input support (if added)
+- User-friendly calculator interface
+- Supports basic arithmetic: `+`, `-`, `*`, `/`
+- Buttons for digits `0-9` and basic operators
 - Real-time input and result display
+- Responsive layout using HTML and CSS
 
----
 
-## 🧑‍💻 Languages Used
+## 🛠️ Tech Stack
 
-- HTML  
-- CSS  
-- JavaScript (Vanilla)
+- **HTML5**
+- **CSS3**
+- **Vanilla JavaScript**
 
----
 
 ## 📁 Project Structure
 
 <pre>
 calculator/
+│
 ├── css/
-│ └── style.css # Stylesheet for the calculator UI
+│   └── style.css         # All calculator styling
+│
 ├── javascript/
-│ └── script.js # JavaScript logic for the calculator
-└── index.html # Main HTML file
+│   └── script.js         # All calculator logic and interaction
+│
+└── index.html            # Calculator interface markup
 </pre>
 
-
----
 
 ## 📄 License
 
@@ -48,4 +42,3 @@ MIT License
 Copyright (c) 2025 Tejas
 
 Open source under the [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-.
